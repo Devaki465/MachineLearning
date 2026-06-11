@@ -1,11 +1,10 @@
-Machine Learning Projects
+**Machine Learning Projects**
 
-This repository contains various machine learning projects developed using Python and Google Colab.
+_This repository contains various machine learning projects developed using Python and Google Colab.
 
-Projects
+**Projects**
 
-1. House Price Prediction
-
+**1. House Price Prediction**
 - Handling missing values
 - Train-test split
 - Decision Tree Regression
@@ -13,7 +12,7 @@ Projects
 - Model evaluation
 - Residual plot analysis
 
-2. Salary Classification
+**2. Salary Classification**
 
 - Handling missing values
 - Count plot visualization
@@ -23,7 +22,7 @@ Projects
 - CART accuracy evaluation
 - ID3 accuracy evaluation
 
-Technologies Used
+**Technologies Used**
 
 - Python
 - NumPy
@@ -33,4 +32,5 @@ Technologies Used
 - Scikit-learn
 - Google Colab
 
-More machine learning projects will be added to this repository over time.
+_More machine learning projects will be added to this repository over time.
+_
